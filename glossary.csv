@@ -9,5 +9,5 @@ LE, Latent Heat Flux, $W.m^{-2}$, LE is the product of the latent heat of vapori
 $\gamma$, Psychrometric Constant, $K^{-1}$,
 $R_{n}$, Net Radiation, $W.m^{-2}$, 
 $G$, Soil Heat Flux, $W.m^{-2}$, 
-$RH_{a}$, Relative Humidity (at a reference height), 
+$RH_{a}$, Relative Humidity (at a reference height),,,
 
