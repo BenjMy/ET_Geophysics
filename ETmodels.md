@@ -9,6 +9,7 @@ ET models based on mass-transfer theory:
 
 - Land surface models:  Lawrence et al., 2020
 - Penman-Monteith based models
+- Priestley-Taylor
 - Thermal remote sensing-based surface energy balance models 
 
 ### Sources of uncertainties
@@ -21,3 +22,5 @@ ET models based on mass-transfer theory:
 # Observations
 
 - Satellite remote sensing-based models
+- in-situ ET observations from eddy-covariance tower sites
+- ERA5 data
