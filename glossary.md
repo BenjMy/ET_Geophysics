@@ -1,0 +1,2 @@
+- SFE: Surface Flux Equilibrium 
+- MEP: Maximum Entropy Production
