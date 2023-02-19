@@ -13,3 +13,9 @@ Ideas to couple ET and Geophysics
 https://hess.copernicus.org/articles/19/2017/2015/hess-19-2017-2015.pdf
 
 Therefore water-balance and energy-balance approaches are two of the main methodologies for modelling this process. The water-balance approach is usually implemented as a complex, distributed hydrological model, while the energybalance approach is often used with remotely sensed observations of, for example, the land surface temperature (LST) and the state of the vegetation.
+
+
+## How
+
+- Geophysic to map land use precisely; 3TSEB but why not 4,5 or 6 including soil compaction, soil physics water capacity holding etc ...
+- 
