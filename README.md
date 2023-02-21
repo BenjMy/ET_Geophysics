@@ -29,3 +29,9 @@ Therefore water-balance and energy-balance approaches are two of the main method
     - Ks [-] is the water stress coefficient (for transpiration)
 
     Calculating Kr and Ks as a function of SWC instead on cumulative depletion of soil water (approach FAO). This SWC-based approach doesn’t require temporal fluxes as inputs, and it allows spatial analysis of soil water stress when spatial SWC characterization is available.
+
+
+
+## Drone based geophysics - review
+Podcast SEG: https://seg.org/podcast/Post/15950/Episode-178-Why-you-should-consider-drone-based-geophysics
+
