@@ -35,3 +35,5 @@ Therefore water-balance and energy-balance approaches are two of the main method
 ## Drone based geophysics - review
 Podcast SEG: https://seg.org/podcast/Post/15950/Episode-178-Why-you-should-consider-drone-based-geophysics
 
+# Python tools
+- https://pygis.io/docs/a_intro.html
