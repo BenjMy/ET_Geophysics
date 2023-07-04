@@ -1,4 +1,17 @@
 Acronym, Full Name, Unit, Definition
+ET,,,
+ESM, Earth System Models,,
+LSMs, land surface models (Pitman, 2003),,
+SVATs, “Soil–Vegetation–Atmosphere Transfer schemes” (equivalent to LSMs),,
+LSSs,  “land surface schemes” or “land surface parameterizations (equivalent to LSMs)”,,
+SWAP, Soil-WaterAtmosphere-Plant,,
+GCM,Global Circulation Model,,
+SEB, Surface Energy Balance models,,
+TSEB (or SEB - 2S), **Two-sources** energy balance (TSEB) model,,
+OSM VS TSM, One source Model vs Two-Source Model’,,
+TIR, Infrared Temperature, 8–14 μm thermal infrared region,
+LST,  land surface temperature (LST),,
+TGEs, tree-grass ecosystems,,
 PE, Potential Evapotranspiration, -, Evaporative demand exerted by the atmosphere/ evaporation rate when evaporation is not limited by soil moisture
 SFE, Surface Flux Equilibrium, -,
 MEP, Maximum Entropy Production, -, 
