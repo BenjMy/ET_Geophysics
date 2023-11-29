@@ -7,15 +7,26 @@ Ideas to couple ET and Geophysics
 - References 
 - Idea developement (projects redaction)
 
+## Observations
+### Earth Observations (EO)
+- Quick overview of EO satelite data available and how to fetch/prepare them: [pyEO](pyEO.md)
 
-## water-balance OR energy-balance approaches
+### Proximal Sensing Observations (PS)
+
+### Ground Observations (GB)
+
+## Modelling
 
 https://hess.copernicus.org/articles/19/2017/2015/hess-19-2017-2015.pdf
 
 Therefore water-balance and energy-balance approaches are two of the main methodologies for modelling this process. The water-balance approach is usually implemented as a complex, distributed hydrological model, while the energybalance approach is often used with remotely sensed observations of, for example, the land surface temperature (LST) and the state of the vegetation.
 
 
-## How
+### Water-balance 
+### Energy-balance approaches
+
+
+## Interaction and links between GB, PS and EO
 
 - Geophysic to map land use precisely; 3TSEB but why not 4,5 or 6 including soil compaction, soil physics water capacity holding etc ...
 - Improve FAO-56 model
@@ -29,11 +40,3 @@ Therefore water-balance and energy-balance approaches are two of the main method
     - Ks [-] is the water stress coefficient (for transpiration)
 
     Calculating Kr and Ks as a function of SWC instead on cumulative depletion of soil water (approach FAO). This SWC-based approach doesn’t require temporal fluxes as inputs, and it allows spatial analysis of soil water stress when spatial SWC characterization is available.
-
-
-
-## Drone based geophysics - review
-Podcast SEG: https://seg.org/podcast/Post/15950/Episode-178-Why-you-should-consider-drone-based-geophysics
-
-# Python tools
-- https://pygis.io/docs/a_intro.html
